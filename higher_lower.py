@@ -10,7 +10,7 @@ while True:
         if number < 0:
             print("The number is positive!")
         elif number > 100:
-            print("The numbers don't go higher than 100")
+            print("The numbers don't go higher than 100!")
         elif number < random_number:
             print("Higher")
         elif number > random_number:
