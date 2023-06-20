@@ -51,6 +51,5 @@ def main():
         elif wizard1.action == "3":
             wizard1.meditate(wizard1.name)
 
-
-
-main()
+if __name__ == "__main__":
+    main()
